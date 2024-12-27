@@ -1,0 +1,1 @@
+print("Om ganganpatye namah jay shri ram")
